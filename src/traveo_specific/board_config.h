@@ -1,0 +1,6 @@
+// Copyright (C) 2025 The Qt Company Ltd.
+// SPDX-License-Identifier: LicenseRef-Qt-Commercial
+#pragma once
+
+void ConfigureBoard();
+
